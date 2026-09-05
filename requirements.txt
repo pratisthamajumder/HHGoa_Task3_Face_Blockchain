@@ -1,0 +1,6 @@
+opencv-contrib-python-headless
+opencv-python-headless
+numpy
+requests
+google-search-results
+Pillow
